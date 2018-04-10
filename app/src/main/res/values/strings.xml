@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="single_player">SINGLE PLAYER</string>
+    <string name="name">enter name</string>
+    <string name="multi_player">MULTI PLAYER</string>
+    <string name="pl1">enter name player 1 (X)</string>
+    <string name="pl2">enter name player 2 (O)</string>
+    <string name="begin_game">Begin Game Single Player</string>
+    <string name="begin_game2">Begin Two Player Game</string>
+    <string name="vs">VS</string>
+    <string name="reset">Reset</string>
+    <string name="comp">Computer</string>
+    <string name="_3x3">3X3</string>
+    <string name="_5x5">5x5</string>
+    <string name="setX">X</string>
+    <string name="setO">O</string>
+</resources>
